@@ -1,4 +1,4 @@
-# PDP Project
+# Parallel shearsort algorithms with MPI
 
 All executables are runned with the same command line arguments, following the format `./snake input_file n output`, where:
 
